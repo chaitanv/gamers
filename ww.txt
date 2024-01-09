@@ -1,0 +1,49 @@
+<img id="img1" src="total gaming.PNG">    <h2 id="h22">Subscribers: 38.1 Million</h2>            <p align="left" id="p1"></p> 
+         </div>
+         <hr>
+         <span>
+          <div id="div4" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <h1  id="h14">2] Techno Gamerz (Ujjwal Chaurasia)</h2>
+              <img id="img1" src="Techno.PNG">  <h2 id="h23">Subscribers: 37.6 Million</h2>            <p align="left" id="p2"></p> 
+            </div>
+           
+              <div id="div5" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h15">3] AS Gaming</h2>
+                <h2 id="h24">Subscribers: 20.1 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+          
+            <div id="div6" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h16">4] Lokesh Gamer <h2>
+                <h2 id="h25">Subscribers: 15.6 Million</h2>            
+                <p " id="p2"></p>
+            </div>
+
+            <div id="div7" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h17">5] Gyan Gaming</h2>
+                <h2 id="h26">Subscribers: 15 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+            <div id="div8" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h18">6] Desi Gamers</h2>
+                <h2 id="h22">Subscribers: 14.4 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+            <div id="div9" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h19">7] MythPat</h2>
+                <h2 id="h22">Subscribers: 14.3 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+            <div id="div10" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h110">8] Two Side Gamers</h2>
+                <h2 id="h22">Subscribers: 12.5 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+            <div id="div11" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h111">9] CarryisLive</h2>
+                <h2 id="h22">Subscribers: 12 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+            <div id="div12" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <h1  id="h112">10] Ujjwal</h2>
+                <h2 id="h22">Subscribers: 10 Million</h2>            <p align="left" id="p2"></p>
+            </div>
+         </span>         
+          </div>
+    </center> 
+    </body>
+</html>

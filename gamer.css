@@ -1,0 +1,63 @@
+body {
+    background-color: wheat;
+    font-weight: bold;
+    font-size: larger;
+}
+.copy_right_header {
+    color: firebrick;
+    font-family: cursive;
+    font-weight: normal;
+}
+#h11 {
+    color: firebrick;
+    font-family: cursive; 
+    font-weight: bold; 
+    font-size:50px ;  
+}
+#h12 {
+    color: firebrick;
+    font-family: cursive;
+    font-weight: bold; 
+    font-size:50px ;   
+}
+h1 {
+    color: firebrick;
+    font-family:cursive ;
+    
+}
+h2 {
+    color: firebrick;
+    font-family: cursive;
+}
+#img1 {
+    image-resolution: 100px * 100px;
+}
+#p1 {
+    color: firebrick;
+    font-family: cursive;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: smaller;
+
+}
+button {
+    background-color: blue;
+    color: white;
+    size: 500px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-size: large;
+}
+.copy_right_footer {
+    color: firebrick;
+    font-family: cursive;
+    font-weight: lighter;
+}
+.container {
+    border: tomato;
+    border-radius: 10px;
+    border-style: groove
+}
+#hr {
+    color: darkcyan;
+}
